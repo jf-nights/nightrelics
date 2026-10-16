@@ -1,0 +1,1123 @@
+{
+  "source": "data/legacy (浅き夜時代のデータ)",
+  "schema_version": 1,
+  "colors": {
+    "赤": "red",
+    "青": "blue",
+    "黄": "yellow",
+    "緑": "green",
+    "白": "white"
+  },
+  "vessels": [
+    {
+      "id": "v001",
+      "name": "追跡者の器",
+      "character": "追跡者",
+      "slots": [
+        "red",
+        "red",
+        "blue"
+      ],
+      "deep_slots": [
+        "red",
+        "red",
+        "blue"
+      ]
+    },
+    {
+      "id": "v002",
+      "name": "追跡者の杯",
+      "character": "追跡者",
+      "slots": [
+        "yellow",
+        "green",
+        "green"
+      ],
+      "deep_slots": [
+        "yellow",
+        "green",
+        "green"
+      ]
+    },
+    {
+      "id": "v003",
+      "name": "追跡者の高杯",
+      "character": "追跡者",
+      "slots": [
+        "red",
+        "yellow",
+        "white"
+      ],
+      "deep_slots": [
+        "red",
+        "blue",
+        "green"
+      ]
+    },
+    {
+      "id": "v004",
+      "name": "煤けた追跡者の器",
+      "character": "追跡者",
+      "slots": [
+        "blue",
+        "blue",
+        "yellow"
+      ],
+      "deep_slots": [
+        "blue",
+        "blue",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v005",
+      "name": "封じられた追跡者の器",
+      "character": "追跡者",
+      "slots": [
+        "blue",
+        "red",
+        "red"
+      ],
+      "deep_slots": [
+        "green",
+        "yellow",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v006",
+      "name": "守護者の器",
+      "character": "守護者",
+      "slots": [
+        "red",
+        "yellow",
+        "yellow"
+      ],
+      "deep_slots": [
+        "red",
+        "yellow",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v007",
+      "name": "守護者の盃",
+      "character": "守護者",
+      "slots": [
+        "blue",
+        "blue",
+        "green"
+      ],
+      "deep_slots": [
+        "blue",
+        "blue",
+        "green"
+      ]
+    },
+    {
+      "id": "v008",
+      "name": "守護者の高杯",
+      "character": "守護者",
+      "slots": [
+        "blue",
+        "yellow",
+        "white"
+      ],
+      "deep_slots": [
+        "red",
+        "blue",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v009",
+      "name": "煤けた守護者の器",
+      "character": "守護者",
+      "slots": [
+        "red",
+        "green",
+        "green"
+      ],
+      "deep_slots": [
+        "red",
+        "green",
+        "green"
+      ]
+    },
+    {
+      "id": "v010",
+      "name": "封じられた守護者の器",
+      "character": "守護者",
+      "slots": [
+        "yellow",
+        "yellow",
+        "red"
+      ],
+      "deep_slots": [
+        "green",
+        "green",
+        "blue"
+      ]
+    },
+    {
+      "id": "v011",
+      "name": "鉄の目の器",
+      "character": "鉄の目",
+      "slots": [
+        "yellow",
+        "green",
+        "green"
+      ],
+      "deep_slots": [
+        "yellow",
+        "green",
+        "green"
+      ]
+    },
+    {
+      "id": "v012",
+      "name": "鉄の目の盃",
+      "character": "鉄の目",
+      "slots": [
+        "red",
+        "blue",
+        "yellow"
+      ],
+      "deep_slots": [
+        "red",
+        "blue",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v013",
+      "name": "鉄の目の高杯",
+      "character": "鉄の目",
+      "slots": [
+        "red",
+        "green",
+        "white"
+      ],
+      "deep_slots": [
+        "red",
+        "red",
+        "green"
+      ]
+    },
+    {
+      "id": "v014",
+      "name": "煤けた鉄の目の器",
+      "character": "鉄の目",
+      "slots": [
+        "blue",
+        "yellow",
+        "yellow"
+      ],
+      "deep_slots": [
+        "blue",
+        "yellow",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v015",
+      "name": "封じられた鉄の目の器",
+      "character": "鉄の目",
+      "slots": [
+        "green",
+        "green",
+        "yellow"
+      ],
+      "deep_slots": [
+        "blue",
+        "blue",
+        "red"
+      ]
+    },
+    {
+      "id": "v016",
+      "name": "レディの器",
+      "character": "レディ",
+      "slots": [
+        "red",
+        "blue",
+        "blue"
+      ],
+      "deep_slots": [
+        "red",
+        "blue",
+        "blue"
+      ]
+    },
+    {
+      "id": "v017",
+      "name": "レディの盃",
+      "character": "レディ",
+      "slots": [
+        "yellow",
+        "yellow",
+        "green"
+      ],
+      "deep_slots": [
+        "yellow",
+        "yellow",
+        "green"
+      ]
+    },
+    {
+      "id": "v018",
+      "name": "レディの高杯",
+      "character": "レディ",
+      "slots": [
+        "blue",
+        "yellow",
+        "white"
+      ],
+      "deep_slots": [
+        "red",
+        "blue",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v019",
+      "name": "煤けたレディの器",
+      "character": "レディ",
+      "slots": [
+        "red",
+        "red",
+        "green"
+      ],
+      "deep_slots": [
+        "red",
+        "red",
+        "green"
+      ]
+    },
+    {
+      "id": "v020",
+      "name": "封じられたレディの器",
+      "character": "レディ",
+      "slots": [
+        "blue",
+        "blue",
+        "red"
+      ],
+      "deep_slots": [
+        "green",
+        "green",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v021",
+      "name": "無頼漢の器",
+      "character": "無頼漢",
+      "slots": [
+        "red",
+        "green",
+        "green"
+      ],
+      "deep_slots": [
+        "red",
+        "green",
+        "green"
+      ]
+    },
+    {
+      "id": "v022",
+      "name": "無頼漢の盃",
+      "character": "無頼漢",
+      "slots": [
+        "red",
+        "blue",
+        "yellow"
+      ],
+      "deep_slots": [
+        "red",
+        "blue",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v023",
+      "name": "無頼漢の高杯",
+      "character": "無頼漢",
+      "slots": [
+        "red",
+        "red",
+        "white"
+      ],
+      "deep_slots": [
+        "red",
+        "yellow",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v024",
+      "name": "煤けた無頼漢の器",
+      "character": "無頼漢",
+      "slots": [
+        "blue",
+        "blue",
+        "green"
+      ],
+      "deep_slots": [
+        "blue",
+        "blue",
+        "green"
+      ]
+    },
+    {
+      "id": "v025",
+      "name": "封じられた無頼漢の器",
+      "character": "無頼漢",
+      "slots": [
+        "green",
+        "green",
+        "red"
+      ],
+      "deep_slots": [
+        "yellow",
+        "blue",
+        "blue"
+      ]
+    },
+    {
+      "id": "v026",
+      "name": "復讐者の器",
+      "character": "復讐者",
+      "slots": [
+        "blue",
+        "blue",
+        "yellow"
+      ],
+      "deep_slots": [
+        "blue",
+        "blue",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v027",
+      "name": "復讐者の盃",
+      "character": "復讐者",
+      "slots": [
+        "red",
+        "red",
+        "green"
+      ],
+      "deep_slots": [
+        "red",
+        "red",
+        "green"
+      ]
+    },
+    {
+      "id": "v028",
+      "name": "復讐者の高杯",
+      "character": "復讐者",
+      "slots": [
+        "blue",
+        "green",
+        "white"
+      ],
+      "deep_slots": [
+        "blue",
+        "yellow",
+        "green"
+      ]
+    },
+    {
+      "id": "v029",
+      "name": "煤けた復讐者の器",
+      "character": "復讐者",
+      "slots": [
+        "red",
+        "yellow",
+        "yellow"
+      ],
+      "deep_slots": [
+        "red",
+        "yellow",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v030",
+      "name": "封じられた復讐者の器",
+      "character": "復讐者",
+      "slots": [
+        "yellow",
+        "blue",
+        "blue"
+      ],
+      "deep_slots": [
+        "green",
+        "green",
+        "red"
+      ]
+    },
+    {
+      "id": "v031",
+      "name": "隠者の器",
+      "character": "隠者",
+      "slots": [
+        "blue",
+        "blue",
+        "green"
+      ],
+      "deep_slots": [
+        "blue",
+        "blue",
+        "green"
+      ]
+    },
+    {
+      "id": "v032",
+      "name": "隠者の盃",
+      "character": "隠者",
+      "slots": [
+        "red",
+        "blue",
+        "yellow"
+      ],
+      "deep_slots": [
+        "red",
+        "blue",
+        "green"
+      ]
+    },
+    {
+      "id": "v033",
+      "name": "隠者の高杯",
+      "character": "隠者",
+      "slots": [
+        "yellow",
+        "green",
+        "white"
+      ],
+      "deep_slots": [
+        "blue",
+        "green",
+        "green"
+      ]
+    },
+    {
+      "id": "v034",
+      "name": "煤けた隠者の器",
+      "character": "隠者",
+      "slots": [
+        "red",
+        "red",
+        "yellow"
+      ],
+      "deep_slots": [
+        "red",
+        "red",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v035",
+      "name": "封じられた隠者の器",
+      "character": "隠者",
+      "slots": [
+        "green",
+        "blue",
+        "blue"
+      ],
+      "deep_slots": [
+        "yellow",
+        "yellow",
+        "red"
+      ]
+    },
+    {
+      "id": "v036",
+      "name": "執行者の器",
+      "character": "執行者",
+      "slots": [
+        "red",
+        "yellow",
+        "yellow"
+      ],
+      "deep_slots": [
+        "red",
+        "yellow",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v037",
+      "name": "執行者の盃",
+      "character": "執行者",
+      "slots": [
+        "red",
+        "blue",
+        "green"
+      ],
+      "deep_slots": [
+        "red",
+        "blue",
+        "green"
+      ]
+    },
+    {
+      "id": "v038",
+      "name": "執行者の高杯",
+      "character": "執行者",
+      "slots": [
+        "blue",
+        "yellow",
+        "white"
+      ],
+      "deep_slots": [
+        "yellow",
+        "yellow",
+        "green"
+      ]
+    },
+    {
+      "id": "v039",
+      "name": "煤けた執行者の器",
+      "character": "執行者",
+      "slots": [
+        "red",
+        "red",
+        "blue"
+      ],
+      "deep_slots": [
+        "red",
+        "red",
+        "blue"
+      ]
+    },
+    {
+      "id": "v040",
+      "name": "封じられた執行者の器",
+      "character": "執行者",
+      "slots": [
+        "yellow",
+        "yellow",
+        "red"
+      ],
+      "deep_slots": [
+        "green",
+        "green",
+        "blue"
+      ]
+    },
+    {
+      "id": "v041",
+      "name": "朽ちた追跡者の盃",
+      "character": "追跡者",
+      "slots": [
+        "blue",
+        "green",
+        "yellow"
+      ],
+      "deep_slots": [
+        "blue",
+        "green",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v042",
+      "name": "忘れられた追跡者の盃",
+      "character": "追跡者",
+      "slots": [
+        "green",
+        "green",
+        "yellow"
+      ],
+      "deep_slots": [
+        "red",
+        "green",
+        "white"
+      ]
+    },
+    {
+      "id": "v043",
+      "name": "朽ちた守護者の盃",
+      "character": "守護者",
+      "slots": [
+        "yellow",
+        "green",
+        "green"
+      ],
+      "deep_slots": [
+        "yellow",
+        "green",
+        "green"
+      ]
+    },
+    {
+      "id": "v044",
+      "name": "忘れられた守護者の盃",
+      "character": "守護者",
+      "slots": [
+        "green",
+        "blue",
+        "blue"
+      ],
+      "deep_slots": [
+        "red",
+        "blue",
+        "white"
+      ]
+    },
+    {
+      "id": "v045",
+      "name": "朽ちた鉄の目の盃",
+      "character": "鉄の目",
+      "slots": [
+        "blue",
+        "blue",
+        "green"
+      ],
+      "deep_slots": [
+        "blue",
+        "blue",
+        "green"
+      ]
+    },
+    {
+      "id": "v046",
+      "name": "忘れられた鉄の目の盃",
+      "character": "鉄の目",
+      "slots": [
+        "yellow",
+        "blue",
+        "red"
+      ],
+      "deep_slots": [
+        "yellow",
+        "green",
+        "white"
+      ]
+    },
+    {
+      "id": "v047",
+      "name": "朽ちたレディの盃",
+      "character": "レディ",
+      "slots": [
+        "blue",
+        "green",
+        "green"
+      ],
+      "deep_slots": [
+        "blue",
+        "green",
+        "green"
+      ]
+    },
+    {
+      "id": "v048",
+      "name": "忘れられたレディの盃",
+      "character": "レディ",
+      "slots": [
+        "green",
+        "yellow",
+        "yellow"
+      ],
+      "deep_slots": [
+        "red",
+        "green",
+        "white"
+      ]
+    },
+    {
+      "id": "v049",
+      "name": "朽ちた無頼漢の盃",
+      "character": "無頼漢",
+      "slots": [
+        "yellow",
+        "yellow",
+        "green"
+      ],
+      "deep_slots": [
+        "yellow",
+        "yellow",
+        "green"
+      ]
+    },
+    {
+      "id": "v050",
+      "name": "忘れられた無頼漢の盃",
+      "character": "無頼漢",
+      "slots": [
+        "yellow",
+        "blue",
+        "red"
+      ],
+      "deep_slots": [
+        "red",
+        "green",
+        "white"
+      ]
+    },
+    {
+      "id": "v051",
+      "name": "朽ちた復讐者の盃",
+      "character": "復讐者",
+      "slots": [
+        "red",
+        "red",
+        "yellow"
+      ],
+      "deep_slots": [
+        "red",
+        "red",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v052",
+      "name": "忘れられた復讐者の盃",
+      "character": "復讐者",
+      "slots": [
+        "green",
+        "red",
+        "red"
+      ],
+      "deep_slots": [
+        "yellow",
+        "green",
+        "white"
+      ]
+    },
+    {
+      "id": "v053",
+      "name": "朽ちた隠者の盃",
+      "character": "隠者",
+      "slots": [
+        "red",
+        "red",
+        "blue"
+      ],
+      "deep_slots": [
+        "red",
+        "red",
+        "blue"
+      ]
+    },
+    {
+      "id": "v054",
+      "name": "忘れられた隠者の盃",
+      "character": "隠者",
+      "slots": [
+        "yellow",
+        "blue",
+        "red"
+      ],
+      "deep_slots": [
+        "blue",
+        "green",
+        "white"
+      ]
+    },
+    {
+      "id": "v055",
+      "name": "朽ちた執行者の盃",
+      "character": "執行者",
+      "slots": [
+        "red",
+        "red",
+        "yellow"
+      ],
+      "deep_slots": [
+        "red",
+        "red",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v056",
+      "name": "忘れられた執行者の盃",
+      "character": "執行者",
+      "slots": [
+        "green",
+        "blue",
+        "red"
+      ],
+      "deep_slots": [
+        "yellow",
+        "green",
+        "white"
+      ]
+    },
+    {
+      "id": "v057",
+      "name": "学者の器",
+      "character": "学者",
+      "slots": [
+        "red",
+        "red",
+        "yellow"
+      ],
+      "deep_slots": [
+        "red",
+        "red",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v058",
+      "name": "学者の盃",
+      "character": "学者",
+      "slots": [
+        "blue",
+        "green",
+        "yellow"
+      ],
+      "deep_slots": [
+        "blue",
+        "green",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v059",
+      "name": "学者の高杯",
+      "character": "学者",
+      "slots": [
+        "red",
+        "blue",
+        "white"
+      ],
+      "deep_slots": [
+        "red",
+        "yellow",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v060",
+      "name": "煤けた学者の器",
+      "character": "学者",
+      "slots": [
+        "blue",
+        "green",
+        "green"
+      ],
+      "deep_slots": [
+        "blue",
+        "green",
+        "green"
+      ]
+    },
+    {
+      "id": "v061",
+      "name": "封じられた学者の器",
+      "character": "学者",
+      "slots": [
+        "blue",
+        "blue",
+        "red"
+      ],
+      "deep_slots": [
+        "blue",
+        "blue",
+        "red"
+      ]
+    },
+    {
+      "id": "v062",
+      "name": "朽ちた学者の盃",
+      "character": "学者",
+      "slots": [
+        "blue",
+        "blue",
+        "green"
+      ],
+      "deep_slots": [
+        "blue",
+        "blue",
+        "green"
+      ]
+    },
+    {
+      "id": "v063",
+      "name": "忘れられた学者の盃",
+      "character": "学者",
+      "slots": [
+        "yellow",
+        "green",
+        "blue"
+      ],
+      "deep_slots": [
+        "red",
+        "green",
+        "white"
+      ]
+    },
+    {
+      "id": "v064",
+      "name": "葬儀屋の器",
+      "character": "葬儀屋",
+      "slots": [
+        "blue",
+        "green",
+        "green"
+      ],
+      "deep_slots": [
+        "blue",
+        "green",
+        "green"
+      ]
+    },
+    {
+      "id": "v065",
+      "name": "葬儀屋の盃",
+      "character": "葬儀屋",
+      "slots": [
+        "red",
+        "yellow",
+        "yellow"
+      ],
+      "deep_slots": [
+        "red",
+        "yellow",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v066",
+      "name": "葬儀屋の高杯",
+      "character": "葬儀屋",
+      "slots": [
+        "green",
+        "yellow",
+        "white"
+      ],
+      "deep_slots": [
+        "blue",
+        "green",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v067",
+      "name": "煤けた葬儀屋の器",
+      "character": "葬儀屋",
+      "slots": [
+        "red",
+        "red",
+        "blue"
+      ],
+      "deep_slots": [
+        "red",
+        "red",
+        "blue"
+      ]
+    },
+    {
+      "id": "v068",
+      "name": "封じられた葬儀屋の盃",
+      "character": "葬儀屋",
+      "slots": [
+        "green",
+        "green",
+        "blue"
+      ],
+      "deep_slots": [
+        "yellow",
+        "red",
+        "red"
+      ]
+    },
+    {
+      "id": "v069",
+      "name": "朽ちた葬儀屋の盃",
+      "character": "葬儀屋",
+      "slots": [
+        "red",
+        "blue",
+        "blue"
+      ],
+      "deep_slots": [
+        "red",
+        "blue",
+        "blue"
+      ]
+    },
+    {
+      "id": "v070",
+      "name": "忘れられた葬儀屋の盃",
+      "character": "葬儀屋",
+      "slots": [
+        "yellow",
+        "yellow",
+        "red"
+      ],
+      "deep_slots": [
+        "blue",
+        "yellow",
+        "white"
+      ]
+    },
+    {
+      "id": "v071",
+      "name": "黄金樹の聖杯",
+      "character": null,
+      "slots": [
+        "yellow",
+        "yellow",
+        "yellow"
+      ],
+      "deep_slots": [
+        "yellow",
+        "yellow",
+        "yellow"
+      ]
+    },
+    {
+      "id": "v072",
+      "name": "霊樹の聖杯",
+      "character": null,
+      "slots": [
+        "green",
+        "green",
+        "green"
+      ],
+      "deep_slots": [
+        "green",
+        "green",
+        "green"
+      ]
+    },
+    {
+      "id": "v073",
+      "name": "巨人樹の聖杯",
+      "character": null,
+      "slots": [
+        "blue",
+        "blue",
+        "blue"
+      ],
+      "deep_slots": [
+        "blue",
+        "blue",
+        "blue"
+      ]
+    },
+    {
+      "id": "v074",
+      "name": "影樹の聖杯",
+      "character": null,
+      "slots": [
+        "red",
+        "red",
+        "red"
+      ],
+      "deep_slots": [
+        "red",
+        "red",
+        "red"
+      ]
+    }
+  ]
+}

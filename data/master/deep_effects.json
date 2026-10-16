@@ -1,0 +1,273 @@
+{
+  "schema_version": 2,
+  "sources": [
+    "work/all.json",
+    "data/legacy"
+  ],
+  "effects": [
+    {
+      "id": "d001",
+      "name": "被ダメージ時、毒を蓄積",
+      "group": "被ダメージ時、毒を蓄積",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 32
+    },
+    {
+      "id": "d002",
+      "name": "被ダメージ時、冷気を蓄積",
+      "group": "被ダメージ時、冷気を蓄積",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 30
+    },
+    {
+      "id": "d003",
+      "name": "被ダメージ時、死を蓄積",
+      "group": "被ダメージ時、死を蓄積",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 30
+    },
+    {
+      "id": "d004",
+      "name": "HP最大未満時、攻撃力低下",
+      "group": "HP最大未満時、攻撃力低下",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 29
+    },
+    {
+      "id": "d005",
+      "name": "被ダメージ時、出血を蓄積",
+      "group": "被ダメージ時、出血を蓄積",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 28
+    },
+    {
+      "id": "d006",
+      "name": "聖杯瓶使用時、カット率低下",
+      "group": "聖杯瓶使用時、カット率低下",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 28
+    },
+    {
+      "id": "d007",
+      "name": "技量と信仰が低下",
+      "group": "技量と信仰が低下",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 27
+    },
+    {
+      "id": "d008",
+      "name": "被ダメージ時、腐敗を蓄積",
+      "group": "被ダメージ時、腐敗を蓄積",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 25
+    },
+    {
+      "id": "d009",
+      "name": "聖杯瓶の回復量低下",
+      "group": "聖杯瓶の回復量低下",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 24
+    },
+    {
+      "id": "d010",
+      "name": "筋力と知力が低下",
+      "group": "筋力と知力が低下",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 20
+    },
+    {
+      "id": "d011",
+      "name": "知力と技量が低下",
+      "group": "知力と技量が低下",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 19
+    },
+    {
+      "id": "d012",
+      "name": "信仰と筋力が低下",
+      "group": "信仰と筋力が低下",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 19
+    },
+    {
+      "id": "d013",
+      "name": "被ダメージ時、睡眠を蓄積",
+      "group": "被ダメージ時、睡眠を蓄積",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 19
+    },
+    {
+      "id": "d014",
+      "name": "被ダメージ時、発狂を蓄積",
+      "group": "被ダメージ時、発狂を蓄積",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 18
+    },
+    {
+      "id": "d015",
+      "name": "HP最大未満時、腐敗が蓄積",
+      "group": "HP最大未満時、腐敗が蓄積",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 14
+    },
+    {
+      "id": "d016",
+      "name": "HP最大未満時、毒が蓄積",
+      "group": "HP最大未満時、毒が蓄積",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 12
+    },
+    {
+      "id": "d017",
+      "name": "取得ルーン減少",
+      "group": "取得ルーン減少",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 7
+    },
+    {
+      "id": "d018",
+      "name": "回避直後、カット率低下",
+      "group": "回避直後、カット率低下",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 7
+    },
+    {
+      "id": "d019",
+      "name": "瀕死時、最大HP低下",
+      "group": "瀕死時、最大HP低下",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 6
+    },
+    {
+      "id": "d020",
+      "name": "アーツゲージ蓄積鈍化",
+      "group": "アーツゲージ蓄積鈍化",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 3
+    },
+    {
+      "id": "d021",
+      "name": "HP持続減少",
+      "group": "HP持続減少",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 1
+    },
+    {
+      "id": "d022",
+      "name": "回避連続時、カット率低下",
+      "group": "回避連続時、カット率低下",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 1
+    },
+    {
+      "id": "d023",
+      "name": "すべての状態異常耐性低下",
+      "group": "すべての状態異常耐性低下",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 1
+    },
+    {
+      "id": "d024",
+      "name": "生命力と神秘が低下",
+      "group": "生命力と神秘が低下",
+      "level": 0,
+      "category": "デメリット",
+      "character": null,
+      "is_demerit": true,
+      "verified": true,
+      "seen": 0
+    }
+  ]
+}

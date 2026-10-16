@@ -1,0 +1,12 @@
+{
+  "data_version": 2026101601,
+  "min_app": "0.5.0",
+  "files": [
+    "master/effects.json",
+    "master/deep_effects.json",
+    "master/vessels.json",
+    "master/shop_relics.json",
+    "special_relics.json"
+  ],
+  "notes": ""
+}
