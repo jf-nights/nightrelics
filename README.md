@@ -6,6 +6,7 @@
 
 [Releases](https://github.com/jf-nights/nightrelics/releases) から最新の `NIGHTRELICS-v◯.◯.◯.zip` をダウンロードし、すべて展開して `NIGHTRELICS.exe` を起動してください。
 使い方は zip に入っている「はじめにお読みください.txt」を見てください。
+もしくは [Youtube](https://www.youtube.com/watch?v=qqLflJjzX4U)を見てください。
 
 ## 更新について
 
